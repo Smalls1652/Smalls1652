@@ -8,3 +8,4 @@
 
 - [My Website](https://smalls.online)
 - [Twitter](https://twitter.com/thetimmysmalls)
+- <a href="https://mastodon.social/@smallsonline" rel="me">Mastodon</a>
