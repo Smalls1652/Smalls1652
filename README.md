@@ -8,4 +8,4 @@
 
 - [My Website](https://smalls.online)
 - [Twitter](https://twitter.com/thetimmysmalls)
-- [Mastodon](https://mastodon.social/@smallsonline)
+- [Mastodon](https://ocw.social/@smalls)
